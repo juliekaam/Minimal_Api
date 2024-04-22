@@ -1,0 +1,2 @@
+Name: kaam, Email: wsds@gmail.com, Phone: +00124445, Password: test
+Name: pippo, Email: pippo@gmail.com, Phone: +004445, Password: test 2
